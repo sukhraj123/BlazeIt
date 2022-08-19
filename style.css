@@ -127,7 +127,7 @@ nav .fa{
         font-size: 20px;
     }
     .nav-links ul li{
-        display: block;
+        display: none;
     }
     .nav-links{
         position: absolute;
@@ -142,7 +142,7 @@ nav .fa{
 
     }
     nav .fa{
-        display: none;
+        display: block;
         color: #fcfcfc;
         margin: 12px;
         font-size: 22px;
