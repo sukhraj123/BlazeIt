@@ -142,7 +142,7 @@ nav .fa{
         padding-right: 0px;
     }
     nav .fa{
-        display: block;
+        display: none;
         color: #fcfcfc;
         margin: 12px;
         font-size: 22px;
