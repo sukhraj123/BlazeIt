@@ -131,18 +131,18 @@ nav .fa{
     }
     .nav-links{
         position: absolute;
-        background: #bbad71;
-        height: 50vh;
-        width: 150px;
+        background: #787a40;
+        height: 100vh;
+        width: 200px;
         top: 0;
         right: 0px;
         text-align: left;
         z-index: 2;
         transition: 1s;
-        padding-right: 0px;
+
     }
     nav .fa{
-        display: none;
+        display: block;
         color: #fcfcfc;
         margin: 12px;
         font-size: 22px;
