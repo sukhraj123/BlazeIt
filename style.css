@@ -128,11 +128,12 @@ nav .fa{
     }
     .nav-links ul li{
         display: block;
+        color: #787a40;
       
     }
     .nav-links{
         position: absolute;
-        background: #787a40;
+        background: #bbad41;
         height: 100vh;
         width: 200px;
         top: 0;
@@ -236,6 +237,7 @@ div img{
     box-sizing: border-box;
     transition: 0.5s;
     text-align: center;
+    margin: auto;
     
 }
 .pic-col img{
